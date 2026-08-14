@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+
+Machine Learning (ML) is a subset of AI that enables computers to learn from data.
+
+Deep Learning is a subset of Machine Learning that uses neural networks.
+
+Ollama is a platform that allows users to run Large Language Models locally.
+
+RAG stands for Retrieval-Augmented Generation. It retrieves relevant information from documents and uses an LLM to generate accurate answers.
